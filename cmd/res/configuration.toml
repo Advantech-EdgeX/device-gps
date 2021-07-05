@@ -65,6 +65,6 @@ File = "./device-gps.log"
       Address = "gps01"
       Port = "300"
   [[DeviceList.AutoEvents]]
-    Frequency = "1s"
+    Frequency = "5s"
     OnChange = false
     Resource = "GPS"
